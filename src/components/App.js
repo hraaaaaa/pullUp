@@ -7,7 +7,9 @@ import Home from './pages/Home';
   return (
     <Layout>
       <Home />
+      <div>working</div>
     </Layout>
+    
   );
 }
 
