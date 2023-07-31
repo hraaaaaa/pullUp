@@ -8,10 +8,10 @@ export default function Video(){
     <a href="quiz.html">
             <div className={classes.video}>
               <img src={image} alt="Video Title" />
-              <p>#23 React Hooks Bangla - React useReducer hook Bangla</p>
+              <p>어떤 문제를 풀어볼까</p>
               <div className={classes.qmeta}>
-                <p>10 Questions</p>
-                <p>Score : Not taken yet</p>
+                <p>문제 갯수 표시</p>
+                <p>점수 : 아직풀지않음</p>
               </div>
             </div>
           </a>
